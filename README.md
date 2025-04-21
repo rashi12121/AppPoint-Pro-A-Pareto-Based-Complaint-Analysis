@@ -36,7 +36,7 @@ The project includes the following analyses and dashboards:
   - **FilterFlex**
   - **LightArt**
   - **PixelPerfect**
-  ![Click to view Dashboard](https://github.com/rashi12121/AppPoint-Pro-A-Pareto-Based-Complaint-Analysis/blob/main/AppPoint%20-%20App-wise%20Analysis.pdf)  
+  ![Click to view Dashboard](https://github.com/rashi12121/AppPoint-Pro-A-Pareto-Based-Complaint-Analysis/blob/main/App-Wise%20Complaints.png)  
 
 ### ✅ Task 3: Complaint Type Pareto Analysis
 - Pivot table filtered for underperforming apps.
@@ -44,7 +44,7 @@ The project includes the following analyses and dashboards:
   - **Too Many Ads**
   - **Frequent Pop-Ups for Upgrades**
   - **Limited Free Features**
-![Click to view Dashboard](https://github.com/rashi12121/AppPoint-Pro-A-Pareto-Based-Complaint-Analysis/blob/main/AppPoint%20-%20ComplaintType%20Analysis.pdf)
+![Click to view Dashboard](https://github.com/rashi12121/AppPoint-Pro-A-Pareto-Based-Complaint-Analysis/blob/main/Complaint-Type.png)
 
 ### ✅ Task 4: Overall Dashboard
 - A visual dashboard combining app-wise and complaint-wise insights.
